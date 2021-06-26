@@ -1,0 +1,39 @@
+{
+  "name": "@pittica/gatsby-plugin-utils",
+  "private": false,
+  "description": "Utilities plugin for GatsbyJS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucio Benini",
+    "email": "info@pittica.com",
+    "url": "https://pittica.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pittica/gatsby-plugin-utils/issues"
+  },
+  "deprecated": false,
+  "homepage": "https://github.com/pittica/gatsby-plugin-utils",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "utils",
+    "utilities"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "gatsby-plugin-react-helmet": "^4.8.0"
+  },
+  "devDependencies": {
+    "gatsby": "^3.8.0",
+    "react": "^17.0.2"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pittica/gatsby-plugin-utils.git"
+  },
+  "config": {
+    "access": "public"
+  }
+}
