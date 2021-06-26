@@ -1,6 +1,6 @@
-import { joinLocale } from "./src/joinLocale";
-import { formatLocale } from "./src/formatLocale";
-import { commalify } from "./src/commalify";
-import { groupify } from "./src/groupify";
+const { joinLocale } = require("./src/joinLocale");
+const { formatLocale } = require( "./src/formatLocale");
+const { commalify } = require( "./src/commalify");
+const { groupify } = require( "./src/groupify");
 
-export { joinLocale, formatLocale, commalify, groupify };
+module.exports = { joinLocale, formatLocale, commalify, groupify };
