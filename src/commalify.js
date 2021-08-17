@@ -1,9 +1,9 @@
 module.exports.commalify = (objects) => {
-  const parts = [];
+  const parts = []
 
   objects.forEach((element) => {
-    parts.push(element.name);
-  });
+    parts.push(element.name)
+  })
 
-  return parts.join(', ');
-};
+  return parts.join(", ")
+}

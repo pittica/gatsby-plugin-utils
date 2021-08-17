@@ -1,11 +1,11 @@
 module.exports.groupify = (slug, group) => {
-  const parts = [];
+  const parts = []
 
   if (group) {
-    parts.push(group);
+    parts.push(group)
   }
 
-  parts.push(slug);
+  parts.push(slug)
 
-  return `/${parts.join("/")}`;
-};
+  return `/${parts.join("/")}`
+}
