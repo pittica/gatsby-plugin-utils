@@ -9,5 +9,6 @@ coverage
 decls
 examples
 .gitattributes
+*.code-workspace
+src
 .github
-gatsby-plugin-utils.code-workspace
