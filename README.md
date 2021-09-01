@@ -3,8 +3,7 @@
 ![License](https://img.shields.io/github/license/pittica/gatsby-plugin-utils)
 ![Version](https://img.shields.io/github/package-json/v/pittica/gatsby-plugin-utils)
 ![Release](https://img.shields.io/github/v/release/pittica/gatsby-plugin-utils)
-![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/pittica/gatsby-plugin-utils/dev/gatsby)
-![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/pittica/gatsby-plugin-utils/dev/react)
+![React version](https://img.shields.io/github/package-json/dependency-version/pittica/gatsby-plugin-utils/react)
 
 ## Description
 
@@ -20,4 +19,4 @@ npm install @pittica/gatsby-plugin-utils
 
 ## Copyright
 
-(c) 2021, Pittaca S.r.l.s.
+(c) 2021, [Pittica S.r.l.s.](https://pittica.com).
