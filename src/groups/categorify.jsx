@@ -1,4 +1,4 @@
-module.exports.categorify = (data) => {
+export default function categorify(data) {
   const categories = []
 
   data.forEach(({ id, name, slug }) => {

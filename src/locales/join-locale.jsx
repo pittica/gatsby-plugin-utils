@@ -1,4 +1,4 @@
-module.exports.joinLocale = ({ language, culture }) => {
+export default function joinLocale({ language, culture }) {
   const value = []
 
   if (language) {

@@ -1,4 +1,4 @@
-module.exports.formatLocale = (locale) => {
+export default function formatLocale(locale) {
   const value = { language: null, locale: null }
 
   switch (typeof locale) {

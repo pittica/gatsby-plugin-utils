@@ -1,4 +1,4 @@
-module.exports.commalify = (objects) => {
+export default function commalify(objects) {
   const parts = []
 
   objects.forEach((element) => {

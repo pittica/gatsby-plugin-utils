@@ -1,4 +1,4 @@
-module.exports.groupify = (slug, group) => {
+export default function groupify(slug, group) {
   const parts = []
 
   if (group) {
