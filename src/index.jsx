@@ -6,7 +6,7 @@ import groupify from "./groups/groupify"
 import hexToRgb from "./colors/hex-to-rgb"
 import rgbToHex from "./colors/rgb-to-hex"
 
-export default {
+export {
   joinLocale,
   formatLocale,
   categorify,
