@@ -12,6 +12,7 @@ Utilities plugin for [GatsbyJS](https://www.gatsbyjs.org/).
 ## Install
 
 [![npm](https://img.shields.io/npm/v/@pittica/gatsby-plugin-utils)](https://www.npmjs.com/package/@pittica/gatsby-plugin-utils)
+[![npm](https://img.shields.io/npm/dm/@pittica/gatsby-plugin-utils)](https://www.npmjs.com/package/@pittica/gatsby-plugin-utils)
 
 ```shell
 npm install @pittica/gatsby-plugin-utils
@@ -19,4 +20,4 @@ npm install @pittica/gatsby-plugin-utils
 
 ## Copyright
 
-(c) 2021, [Pittica S.r.l.s.](https://pittica.com).
+(c) 2021, [Pittica S.r.l.](https://pittica.com).
