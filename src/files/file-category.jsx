@@ -1,6 +1,6 @@
 const categories = {
   text: ["txt"],
-  picture: ["jpg", "jpeg", "bmp"],
+  picture: ["jpg", "jpeg", "bmp", "svg"],
   music: ["mp3", "wav", "m4a"],
   video: ["mp4", "m4v", "avi", "mpg", "mpeg"],
   zip: ["zip", "rar", "tgz", "7zip"],
