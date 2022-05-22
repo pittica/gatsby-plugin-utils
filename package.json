@@ -2,7 +2,7 @@
   "name": "@pittica/gatsby-plugin-utils",
   "private": false,
   "description": "Utilities plugin for GatsbyJS.",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "author": {
     "name": "Lucio Benini",
     "email": "info@pittica.com",
@@ -20,9 +20,9 @@
     "utilities"
   ],
   "devDependencies": {
-    "@babel/cli": "^7.16.8",
-    "babel-preset-gatsby-package": "^2.6.0",
-    "react-scripts": "^5.0.0"
+    "@babel/cli": "^7.17.10",
+    "babel-preset-gatsby-package": "^2.14.0",
+    "react-scripts": "^5.0.1"
   },
   "license": "MIT",
   "main": "dist/index.js",

@@ -6,6 +6,7 @@ import fileCategory from "./files/file-category"
 import groupify from "./groups/groupify"
 import hexToRgb from "./colors/hex-to-rgb"
 import rgbToHex from "./colors/rgb-to-hex"
+import withUrl from "./uri/with-url"
 
 export {
   joinLocale,
@@ -16,4 +17,5 @@ export {
   groupify,
   hexToRgb,
   rgbToHex,
+  withUrl,
 }
