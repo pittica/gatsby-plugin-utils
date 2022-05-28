@@ -8,7 +8,7 @@ import hexToRgb from "./colors/hex-to-rgb"
 import rgbToHex from "./colors/rgb-to-hex"
 import withUrl from "./uri/with-url"
 import filterArray from "./array/filter-array"
-import tailing from "./text/tailing"
+import tail from "./text/tail"
 
 export {
   joinLocale,
@@ -21,5 +21,5 @@ export {
   rgbToHex,
   withUrl,
   filterArray,
-  tailing,
+  tail,
 }
