@@ -7,6 +7,8 @@ import groupify from "./groups/groupify"
 import hexToRgb from "./colors/hex-to-rgb"
 import rgbToHex from "./colors/rgb-to-hex"
 import withUrl from "./uri/with-url"
+import filterArray from "./array/filter-array"
+import tailing from "./text/tailing"
 
 export {
   joinLocale,
@@ -18,4 +20,6 @@ export {
   hexToRgb,
   rgbToHex,
   withUrl,
+  filterArray,
+  tailing,
 }
