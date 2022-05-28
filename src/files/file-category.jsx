@@ -1,9 +1,9 @@
 const categories = {
   text: ["txt"],
-  picture: ["jpg", "jpeg", "bmp", "svg"],
+  picture: ["jpg", "jpeg", "bmp", "svg", "webp"],
   music: ["mp3", "wav", "m4a"],
   video: ["mp4", "m4v", "avi", "mpg", "mpeg"],
-  zip: ["zip", "rar", "tgz", "7zip"],
+  zip: ["zip", "rar", "tgz", "7zip", "7z", "gz", "tar"],
   pdf: ["pdf"],
   word: ["doc", "docx", "rtf", "odt"],
   excel: ["xls", "xlsx", "xlsm"],

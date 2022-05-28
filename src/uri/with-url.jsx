@@ -4,6 +4,6 @@ export default function withUrl(path, base) {
       ? path
       : new URL(path, base).href
   } catch {
-    return path
+    return path || base
   }
 }
