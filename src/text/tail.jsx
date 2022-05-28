@@ -12,5 +12,5 @@ export default function tail(text, length, separators) {
     }
   })
 
-  return chunk.substring(0, result.lastIndexOf(" "))
+  return chunk.substring(0, chunk.lastIndexOf(" "))
 }
